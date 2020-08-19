@@ -5,7 +5,7 @@ Hello there!
  - Find me [here](https://dretacbe.github.io)
 
 ✨ Working on:
- - Nothing as of the moment
+ - A secret little project
 
 👯 Learned:
  - [CS50's Introduction to Computer Science 2020](https://www.edx.org/course/cs50s-introduction-to-computer-science)
