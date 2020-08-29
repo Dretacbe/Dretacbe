@@ -1,22 +1,37 @@
-Hello there!                                                                                       
+[website]: https://dretacbe.github.io
+[twitter]: https://twitter.com/Dretacbe
+[reddit]: https://reddit.com/user/Dretacbe
+[github]: https://github.com/Dretacbe
+[gmail]: mailto:yangmain3@gmail.com
+[patreon]: https://patreon.com/Dreta
 
-✨ I am:
- - A student
- - Find me [here](https://dretacbe.github.io)
- - Intermediate in general development
+### I'm Dreta, how may I help you?
 
-✨ Working on:
- - A secret little project
+I am a student, and a casual developer!
 
-👯 Learned:
- - [CS50's Introduction to Computer Science 2020](https://www.edx.org/course/cs50s-introduction-to-computer-science)
- - [CS50's Web Programming with Python and JavaScript 2018](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
- - [CS50's Introduction to Artificial Intelligence with Python 2020](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
- - Node.js
+Skill Level:
+- **Python**: Advanced
+- **Java**: Intermediate
+- **Node.js**: Beginner
 
-🌱 Learning:
- - [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer?)
+What I'm doing:
+- 🔭 Working on [Spock](https://github.com/Spock-App/spcok-app)
+- 🌱 Learning [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer?)
+- 👯 I’m offering paid development service on **Minecraft Plugins via the Bukkit/Spigot/Paper Server Platform** and **Discord Bots**.
 
-🔭 Will Learn:
- - Probably another language
- - [CS50's Introduction to Game Development 2018](https://www.edx.org/course/cs50s-introduction-to-game-development)
+### Connect with me:
+
+[<img align="left" alt="Dreta | Website" width="22px" src="https://image.flaticon.com/icons/svg/3430/3430319.svg" />][website]
+[<img align="left" alt="Dreta | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="Dreta | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
+[<img align="left" alt="Dreta | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="left" alt="Dreta | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[<img align="left" alt="Dreta | Patreon" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" />][patreon]
+
+<br />
+
+### Buy me a coffee:
+
+I truly appreciate your help.
+
+[<img align="left" alt="Dreta | Patreon" width="32px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" /> Check out my Patreon page!][patreon]
