@@ -17,7 +17,7 @@ Skill Level:
 What I'm doing:
 - 🔭 Working on [Spock](https://github.com/Spock-App/spcok-app)
 - 🌱 Learning [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer?)
-- 👯 I’m offering paid development service on **Minecraft Plugins via the Bukkit/Spigot/Paper Server Platform** and **Discord Bots**.
+- 👯 Offering paid development service on **Minecraft Plugins via the Bukkit/Spigot/Paper Server Platform** and **Discord Bots**.
 
 ### Connect with me:
 
