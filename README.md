@@ -21,6 +21,8 @@ What I'm doing:
 
 ### Connect with me:
 
+**Note**: To get your friend request accepted on Discord, you must have a valid avatar image to prevent spam.
+
 [<img align="left" alt="Dreta | Website" width="22px" src="https://image.flaticon.com/icons/svg/3430/3430319.svg" />][website]
 [<img align="left" alt="Dreta | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="Dreta | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
@@ -28,8 +30,6 @@ What I'm doing:
 [<img align="left" alt="Dreta | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 [<img align="left" alt="Dreta | Discord" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg" />](https://dretacbe.github.io/discord.html)
 [<img align="left" alt="Dreta | Patreon" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" />][patreon]
-
-**Note**: To get your friend request accepted on Discord, you must have a valid avatar image to prevent spam.
 
 <br />
 
