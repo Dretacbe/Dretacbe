@@ -29,6 +29,8 @@ What I'm doing:
 [<img align="left" alt="Dreta | Discord" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg" />](https://dretacbe.github.io/discord.html)
 [<img align="left" alt="Dreta | Patreon" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" />][patreon]
 
+**Note**: To get your friend request accepted on Discord, you must have a valid avatar image to prevent spam.
+
 <br />
 
 ### Buy me a coffee:
