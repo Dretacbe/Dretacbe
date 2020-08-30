@@ -21,7 +21,7 @@ What I'm doing:
 
 ### Connect with me:
 
-**Note**: To get your friend request accepted on Discord, you must have a valid avatar image to prevent spam.
+**Note**: To get your friend request accepted on Discord, you must not use the default avatar image.
 
 [<img align="left" alt="Dreta | Website" width="22px" src="https://image.flaticon.com/icons/svg/3430/3430319.svg" />][website]
 [<img align="left" alt="Dreta | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
