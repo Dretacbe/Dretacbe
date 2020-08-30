@@ -5,7 +5,7 @@
 [gmail]: mailto:yangmain3@gmail.com
 [patreon]: https://patreon.com/Dreta
 
-### I'm Dreta, how may I help you?
+### Hello there!
 
 I am a student, and a casual developer!
 
