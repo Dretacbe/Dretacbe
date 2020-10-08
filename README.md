@@ -12,7 +12,7 @@ I am a student, and a casual developer!
 Skill Level:
 - **Python**: Advanced
 - **Java**: Intermediate
-- **Node.js**: Beginner
+- **Node.js**: Intermediate
 
 What I'm doing:
 - 🔭 Working on [Spock](https://github.com/Spock-App/spcok-app)
