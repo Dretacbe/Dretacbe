@@ -5,9 +5,9 @@
 [gmail]: mailto:yangmain3@gmail.com
 [patreon]: https://patreon.com/Dreta
 
-### Hello there!
+## "We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing
 
-I am a student, and a casual developer!
+I am Dreta, a student and a freelancer developer.
 
 Skill Level:
 - **Python**: Advanced
@@ -17,7 +17,7 @@ Skill Level:
 What I'm doing:
 - 🔭 Working on [Spock](https://github.com/Spock-App/spcok-app)
 - 🌱 Learning [Build a Modern Computer from First Principles: From Nand to Tetris (Part 2)](https://www.coursera.org/learn/nand2tetris2)
-- 👯 Offering paid development service **Discord Bots only**.
+- 👯 Offering paid development service. Contact me on Discord. **Discord Bots only**.
 
 ### Connect with me:
 
@@ -33,7 +33,7 @@ What I'm doing:
 
 <br />
 
-### Encrypt Emails
+### Email Encryption
 
 **Note**: This is **not** the preferred way to communicate. Please consider using [Discord](https://dreta.github.io/discord.html) instead. You can only use this public key with my [Gmail][gmail] address.
 
