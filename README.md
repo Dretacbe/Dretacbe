@@ -35,7 +35,7 @@ What I'm doing:
 
 ### Email Encryption
 
-**Note**: This is **not** the preferred way to communicate. Please consider using [Discord](https://dreta.github.io/discord.html) instead. It's recommended that you encrypt the emails that you want to send.
+**Note**: This is **not** the preferred way to communicate. Please consider using [Discord](https://dreta.github.io/discord.html) instead. It's recommended that you encrypt the emails you want to send.
 
 OpenPGP Public Key:
 
