@@ -5,7 +5,7 @@
 [gmail]: mailto:yangmain3@gmail.com
 [patreon]: https://patreon.com/Dreta
 
-## "We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing
+## "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." - Alan Turing
 
 I am Dreta, a student and a freelancer developer.
 
@@ -17,11 +17,11 @@ Skill Level:
 What I'm doing:
 - 🔭 Working on [Spock](https://github.com/Spock-App/spcok-app)
 - 🌱 Learning [Build a Modern Computer from First Principles: From Nand to Tetris (Part 2)](https://www.coursera.org/learn/nand2tetris2)
-- 👯 Offering paid development service. Contact me on Discord. **Discord Bots only**.
+- 👯 **Not** offering paid development service. ~~Contact me on Discord.~~
 
 ### Connect with me:
 
-**Note**: To get your friend request accepted on Discord, you must not use the default avatar image.
+**Note**: To get your friend request accepted on Discord, you must not use the default avatar image to prevent spam.
 
 [<img align="left" alt="Dreta | Website" width="22px" src="https://image.flaticon.com/icons/svg/3430/3430319.svg" />][website]
 [<img align="left" alt="Dreta | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
