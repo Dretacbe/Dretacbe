@@ -1,43 +1,32 @@
-[website]: https://dreta.github.io
-[twitter]: https://twitter.com/Dretacbe
-[reddit]: https://reddit.com/user/Dretacbe
-[github]: https://github.com/Dreta
-[gmail]: mailto:yangmain3@gmail.com
-[patreon]: https://patreon.com/Dreta
+<h1 align="center">Hi, I'm Dreta</h1>
+                         
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dreta&show_icons=true&theme=dark"></p>
 
-## "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." - Alan Turing
+<p align="center">
+  <a href="https://dreta.github.io"><img alt="Dreta | Website" width="22px" src="https://image.flaticon.com/icons/svg/3430/3430319.svg" /></a>
+  <a href="https://twitter.com/Dretacbe"><img alt="Dreta | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" /></a>
+  <a href="https://reddit.com/u/Dretacbe"><img alt="Dreta | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" /></a>
+  <a href="https://github.com/Dreta"><img alt="Dreta | GitHub" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111425.svg" /></a>
+  <a href="mailto:yangmain3@gmail.com"><img alt="Dreta | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" /></a>
+  <a href="https://dreta.github.io/discord.html"><img alt="Dreta | Discord" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg" /></a>
+  <a href="https://patreon.com/Dreta"><img alt="Dreta | Patreon" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" /></a>
+</p>
 
-I am Dreta, a student and a freelancer developer.
+---
 
-Skill Level:
-- **Python**: Advanced
-- **Java**: Intermediate
-- **Node.js**: Intermediate
+I am a student and a freelancer developer.
 
-What I'm doing:
-- 🔭 Working on [Spock](https://github.com/Spock-App/spcok-app)
-- 🌱 Learning [Build a Modern Computer from First Principles: From Nand to Tetris (Part 2)](https://www.coursera.org/learn/nand2tetris2)
-- 👯 **Not** offering paid development service. ~~Contact me on Discord.~~
+<h3 align="center">Doing</h3>
 
-### Connect with me:
+- 🔭 Working on <a href="https://github.com/Spock-App">Spock</a>.
+- 🌱 Learning <a href="https://www.coursera.org/learn/nand2tetris2">Build a Modern Computer from First Principles: From Nand to Tetris (Part 2)</a>
+- 👯 <b>Not</b> offering paid development service. <s>Contact me on Discord.</s>
 
-**Note**: To get your friend request accepted on Discord, you must not use the default avatar image to prevent spam.
+<h3 align="center">Encrypted Messages</h3>
 
-[<img align="left" alt="Dreta | Website" width="22px" src="https://image.flaticon.com/icons/svg/3430/3430319.svg" />][website]
-[<img align="left" alt="Dreta | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="Dreta | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-[<img align="left" alt="Dreta | GitHub" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111425.svg" />][github]
-[<img align="left" alt="Dreta | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-[<img align="left" alt="Dreta | Discord" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg" />](https://dreta.github.io/discord.html)
-[<img align="left" alt="Dreta | Patreon" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" />][patreon]
+<b>Note</b>: This is <b>not</b> the preferred way to communicate. Please consider using <a href="https://dreta.github.io/discord.html"><img alt="Dreta | Discord" width="22px" style="margin-top: 5px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg" /> Discord</a> instead. If you do want to send me an email, it's recommended that you encrypt the emails you want to send.
 
-<br />
-
-### Email Encryption
-
-**Note**: This is **not** the preferred way to communicate. Please consider using [Discord](https://dreta.github.io/discord.html) instead. It's recommended that you encrypt the emails you want to send.
-
-OpenPGP Public Key:
+PGP Public Key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -86,8 +75,8 @@ IiwcbIm5Nz7CurId++dF3q/FlP80LA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-### Buy me a coffee:
+<h3 align="center">Buy me a coffee</h3>
 
 I truly appreciate your help.
 
-[<img align="left" alt="Dreta | Patreon" width="32px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" /> Check out my Patreon page!][patreon]
+<a href="https://patreon.com/Dreta"><img align="left" alt="Dreta | Patreon" width="32px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" /> Check out my Patreon page!</a>
