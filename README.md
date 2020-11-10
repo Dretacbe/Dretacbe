@@ -14,7 +14,7 @@
 
 ---
 
-I am a student and a freelancer developer.
+I am a student and a freelancer developer. Motto: ~~Soon™~~ Now™.
 
 <h3 align="center">Doing</h3>
 
