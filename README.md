@@ -19,7 +19,7 @@ I am a student and a freelancer developer. Motto: ~~Soon™~~ Now™.
 <h3 align="center">Doing</h3>
 
 - 🔭 Working on <a href="https://github.com/Spock-App">Spock</a>.
-- 🌱 Learning <a href="https://www.coursera.org/learn/nand2tetris2">Build a Modern Computer from First Principles: From Nand to Tetris (Part 2)</a>
+- 🌱 Not learning anything ATM.
 - 👯 <b>Not</b> offering paid development service. <s>Contact me on Discord.</s>
 
 <h3 align="center">Encrypted Messages</h3>
