@@ -7,8 +7,8 @@
   <a href="https://twitter.com/Dretacbe"><img alt="Dreta | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" /></a>
   <a href="https://reddit.com/u/Dretacbe"><img alt="Dreta | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" /></a>
   <a href="https://github.com/Dreta"><img alt="Dreta | GitHub" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111425.svg" /></a>
-  <a href="https://dreta.github.io/email.html"><img alt="Dreta | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" /></a>
-  <a href="https://dreta.github.io/discord.html"><img alt="Dreta | Discord" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg" /></a>
+  <a href="https://dreta.github.io/#contact"><img alt="Dreta | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" /></a>
+  <a href="https://dreta.github.io/#contact"><img alt="Dreta | Discord" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg" /></a>
   <a href="https://patreon.com/Dreta"><img alt="Dreta | Patreon" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111548.svg" /></a>
 </p>
 
