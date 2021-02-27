@@ -16,6 +16,12 @@
 
 That weird dev.
 
+- Monday: Some ticket bot stuff
+- Tuesday: Some game API stuff
+- Wednesday: Redesign the website yet again
+- Thursday: Make some sh\*tposts
+- Friday: Some item editor stuff
+
 <h3 align="center">Buy me a coffee</h3>
 
 I truly appreciate your help.
