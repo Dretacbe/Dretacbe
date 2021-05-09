@@ -14,9 +14,9 @@
 
 ---
 
-That weird dev.
+That stupid dev.
 
-I'm pretty busy right now because of school - do not expect a fast response time.
+School's ending in 30 days! Let me know about all the cool things after that!
 
 <h3 align="center">Buy me a coffee</h3>
 
