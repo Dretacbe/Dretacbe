@@ -16,7 +16,7 @@
 
 That stupid dev.
 
-School's ending in 30 days! Let me know about all the cool things after that!
+School's ending in 10 days! Let me know about all the cool things after that!
 
 <h3 align="center">Buy me a coffee</h3>
 
