@@ -16,8 +16,6 @@
 
 That stupid dev.
 
-School's ending in 10 days! Let me know about all the cool things after that!
-
 <h3 align="center">Buy me a coffee</h3>
 
 I truly appreciate your help.
