@@ -16,7 +16,9 @@
 
 That stupid dev.
 
-<h3 align="center">Buy me a coffee</h3>
+Currentely working on: Lilay, a Minecraft launcher.
+
+<h3>Buy me a coffee</h3>
 
 I truly appreciate your help.
 
